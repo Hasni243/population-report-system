@@ -1,22 +1,22 @@
 # Product Backlog
 
 ## High Priority Tasks
-- Setup GitHub repository
-- Setup Visual Studio project
-- Setup MySQL database
-- Create database connection
-- Generate country population report
+-  GitHub repository
+- Visual Studio project
+  - MySQL database
+-  database connection
+-  country population report
 
 ## Medium Priority Tasks
-- Generate city population report
-- Generate capital city report
-- Generate top N reports
+-  city population report
+-  capital city report
+-  top N reports
 
 ## Low Priority Tasks
-- Improve console formatting
-- Add unit tests
+-  console formatting
+-  unit tests
 
 ## Sprint 1
-- Create initial project structure
+-  initial project structure
 - Connect database
 - Display all countries by population
