@@ -1,0 +1,15 @@
+C:\Users\Shazaib\source\repos\Population Reporting System\Population Reporting System\obj\Debug\net6.0\Population Reporting System.csproj.AssemblyReference.cache
+C:\Users\Shazaib\source\repos\Population Reporting System\Population Reporting System\obj\Debug\net6.0\Population Reporting System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shazaib\source\repos\Population Reporting System\Population Reporting System\obj\Debug\net6.0\Population Reporting System.AssemblyInfoInputs.cache
+C:\Users\Shazaib\source\repos\Population Reporting System\Population Reporting System\obj\Debug\net6.0\Population Reporting System.AssemblyInfo.cs
+C:\Users\Shazaib\source\repos\Population Reporting System\Population Reporting System\obj\Debug\net6.0\Population Reporting System.csproj.CoreCompileInputs.cache
+C:\Users\Shazaib\source\repos\Population Reporting System\Population Reporting System\bin\Debug\net6.0\Population Reporting System.exe
+C:\Users\Shazaib\source\repos\Population Reporting System\Population Reporting System\bin\Debug\net6.0\Population Reporting System.deps.json
+C:\Users\Shazaib\source\repos\Population Reporting System\Population Reporting System\bin\Debug\net6.0\Population Reporting System.runtimeconfig.json
+C:\Users\Shazaib\source\repos\Population Reporting System\Population Reporting System\bin\Debug\net6.0\Population Reporting System.dll
+C:\Users\Shazaib\source\repos\Population Reporting System\Population Reporting System\bin\Debug\net6.0\Population Reporting System.pdb
+C:\Users\Shazaib\source\repos\Population Reporting System\Population Reporting System\obj\Debug\net6.0\Population Reporting System.dll
+C:\Users\Shazaib\source\repos\Population Reporting System\Population Reporting System\obj\Debug\net6.0\refint\Population Reporting System.dll
+C:\Users\Shazaib\source\repos\Population Reporting System\Population Reporting System\obj\Debug\net6.0\Population Reporting System.pdb
+C:\Users\Shazaib\source\repos\Population Reporting System\Population Reporting System\obj\Debug\net6.0\Population Reporting System.genruntimeconfig.cache
+C:\Users\Shazaib\source\repos\Population Reporting System\Population Reporting System\obj\Debug\net6.0\ref\Population Reporting System.dll
